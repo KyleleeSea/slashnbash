@@ -1,5 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
+![](https://imgur.com/a/U7V9bVQ))
 <h1 align="center">slash n bash</h1>
 
   <p align="center">
