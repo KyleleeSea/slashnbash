@@ -1,8 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
-![](https://imgur.com/a/U7V9bVQ))
 <h1 align="center">slash n bash</h1>
-
+<img align="center" width="1200" height="674" src="https://imgur.com/YzvKcV6.gif">
   <p align="center">
     <h4>
       An auto-updating database of upcoming NFT projects with their Twitter engagement analytics.
@@ -15,7 +14,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Slash N Bash Video Demo][video-demo]](https://github.com/KyleleeSea/slashnbash)
 "slash n bash" is a side-scrolling retro themed fighting game controlled by real life body movement.
 
 The project was ideated, designed, and implemented in less than 24 hours for the Carnegie Mellon
@@ -39,11 +37,13 @@ move spam, and designed for an emphasis on timing/rhythm.
 
 ### Gameplay Instructions
 - Move hands above head to perform a "down slash" attack
-[![down slash][down-slash]](https://github.com/KyleleeSea/slashnbash)
+![Imgur](https://imgur.com/3DHv7Lf.png)
+
 - Move hands from right to left to perform a slash attack
-[![spin][spin]](https://github.com/KyleleeSea/slashnbash)
+![Imgur](https://imgur.com/CFogH3r.png)
+
 - Turn back to camera to block
-[![block][block]](https://github.com/KyleleeSea/slashnbash)
+![Imgur](https://imgur.com/9CmUvTW.png)
 
 ### Built With
 * [![OpenCV][opencv]][opencv-url]
@@ -99,9 +99,9 @@ Project Link: [https://github.com/KyleleeSea/slashnbash](https://github.com/Kyle
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [video-demo]: https://imgur.com/a/U7V9bVQ
-[down-slash]: https://imgur.com/a/3zQBGve
-[block]: https://imgur.com/a/3zQBGve
-[spin]: https://imgur.com/a/r1PwSq9
+[down-slash]: https://imgur.com/a/3zQBGve.png
+[block]: https://imgur.com/a/3zQBGve.png
+[spin]: https://imgur.com/a/r1PwSq9.png
 [opencv]: https://img.shields.io/badge/OpenCV-fe2a44?style=for-the-badge&logo=opencv&logoColor=ffffff
 [opencv-url]: https://opencv.org/
 [mediapipe]: https://img.shields.io/badge/Mediapipe-04ABC1?style=for-the-badge&logo=mediapipe&logoColor=ffffff
