@@ -1,7 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <h1 align="center">slash n bash</h1>
-<img align="center" width="1200" height="674" src="https://imgur.com/YzvKcV6.gif">
   <p align="center">
     <h4>
       An auto-updating database of upcoming NFT projects with their Twitter engagement analytics.
@@ -13,7 +12,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+![Imgur](https://imgur.com/YzvKcV6.gif)
 "slash n bash" is a side-scrolling retro themed fighting game controlled by real life body movement.
 
 The project was ideated, designed, and implemented in less than 24 hours for the Carnegie Mellon
