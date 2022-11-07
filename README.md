@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![slash n bash video demo][video-demo]]
+[![slash n bash video demo][video-demo]](https://github.com/KyleleeSea/slashnbash)
 "slash n bash" is a side-scrolling retro themed fighting game controlled by real life body movement.
 
 The project was ideated, designed, and implemented in less than 24 hours for the Carnegie Mellon
@@ -38,11 +38,11 @@ move spam, and designed for an emphasis on timing/rhythm.
 
 ### Gameplay Instructions
 - Move hands above head to perform a "down slash" attack
-[![down slash][down-slash]]
+[![down slash][down-slash]](https://github.com/KyleleeSea/slashnbash)
 - Move hands from right to left to perform a slash attack
-[![spin][spin]]
+[![spin][spin]](https://github.com/KyleleeSea/slashnbash)
 - Turn back to camera to block
-[![block][block]]
+[![block][block]](https://github.com/KyleleeSea/slashnbash)
 
 ### Built With
 * [![OpenCV][opencv]][opencv-url]
