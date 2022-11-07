@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![slash n bash video demo][video-demo]](https://github.com/KyleleeSea/slashnbash)
+[![Slash N Bash Video Demo][video-demo]](https://github.com/KyleleeSea/slashnbash)
 "slash n bash" is a side-scrolling retro themed fighting game controlled by real life body movement.
 
 The project was ideated, designed, and implemented in less than 24 hours for the Carnegie Mellon
