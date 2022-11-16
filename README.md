@@ -3,7 +3,6 @@
 <h1 align="center">slash n bash</h1>
   <p align="center">
     <h4>
-      An auto-updating database of upcoming NFT projects with their Twitter engagement analytics.
     A computer vision controlled fighting game with hit priority, combo, and timing mechanics, full animation, and playable levels.
     </h4>
     <br />
